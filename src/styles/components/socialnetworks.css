@@ -1,0 +1,32 @@
+#social-networks {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin: 1rem 0;
+}
+#social-networks .social-btn {
+  background-color: #1D1D1D;
+  border-radius: 5px;
+  color: #333;
+  font-size: 1.3rem;
+  padding: 0.6rem;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+#social-networks .social-btn:hover {
+  background: linear-gradient(90deg, rgb(250, 82, 82) 0%, rgb(221, 36, 118) 100%);
+}
+#social-networks .social-btn:hover > svg {
+  color: #FFF;
+}
+#social-networks #linkedin {
+  color: #0072B1;
+}
+#social-networks #github {
+  color: #111;
+}
+#social-networks #instagram {
+  color: #BC2A8B;
+}/*# sourceMappingURL=socialnetworks.css.map */

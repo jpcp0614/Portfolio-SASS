@@ -1,0 +1,9 @@
+.information-container {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #1D1D1D;
+  padding: 1rem;
+  margin-bottom: 2rem;
+}/*# sourceMappingURL=informationcontainer.css.map */
